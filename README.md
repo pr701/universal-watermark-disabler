@@ -15,7 +15,7 @@ This utility was written by me in 2015, but only now I have published its source
 ## How does it work?
 Short answer: COM-hijacking and DLL-Proxying with inject a DLL into the ExplorerFrame.
 
-You can also read the article is about how this utils was researched: [Reverse-engineered the Windows Watermark Disabler](https://github.com/0xda568/Universal-Watermark-Disabler-Reverse-Engineering).
+You can also read the article is about how this utils was researched: [Reverse-engineered the Universal Watermark Disabler](https://github.com/0xda568/Universal-Watermark-Disabler-Reverse-Engineering).
 
 ## Issues
 The legacy implementation is incompatible with StartIsBack.
