@@ -1,5 +1,7 @@
 # Universal Watermark Disabler
-Removes watermarks strings in Windows 10, Windows 8.1 and Windows 8
+Removes watermarks strings in Windows 10, Windows 8.1 and Windows 8 ([Preview](docs/preview.md)).
+
+![main window](docs/mainwindow.png)
 
 ## About source
 This utility was written by me in 2015, but only now I have published its source code.
@@ -21,5 +23,7 @@ The legacy implementation is incompatible with StartIsBack.
 ## History
 In the far far past I was interested in beta versions of Windows, but the non-disable watermark in them did not allow me to make a beautiful screenshot, so I had the idea to remove the watermark.
 
+Some of [changelog](docs/changelog.md).
+
 ## Special thanks
-Special thanks to my old friend Tihiy: author of the [StartIsBack](https://www.StartIsBack.com/) project.
+Special thanks to my old friend Tihiy - author of the [StartIsBack](https://www.StartIsBack.com/) project.
